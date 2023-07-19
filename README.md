@@ -9,7 +9,7 @@ The Pomodoro App helps you boost productivity by using the Pomodoro Technique. I
 ## Features
 
 - Timer for work sessions and breaks
-- Automatically switches between work, short break, and long break sessions
+- Automatically switches between work, short breaks, and long break sessions
 - Displays the remaining time in minutes and seconds
 - Provides a checkmark for completed work sessions
 - Reset functionality to start a new Pomodoro session
@@ -18,7 +18,7 @@ The Pomodoro App helps you boost productivity by using the Pomodoro Technique. I
 
 1. Clone the repository:
 
-`git clone https://github.com/your_username/pomodoro-app.git`
+`git clone https://github.com/Alisadaintanvir/pomodoro-app.git`
 
 2. Change into the project directory:
 
